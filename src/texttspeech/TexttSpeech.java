@@ -12,6 +12,10 @@ public class TexttSpeech {
 	public static void main(String[] args) {
 		TextToSpeech synthesizer = new TextToSpeech();
 
+         String translation = g¡“ú‚Í—Ç‚¢“V‹C‚Å‚·‚ËBh;
+
+
+
 		   synthesizer.setUsernameAndPassword("4ab55542-c2a8-4685-a244-36f539445cf7", "TLAzYObNyic2");
 
 }
